@@ -3,7 +3,7 @@
 A simple calculator app built with **React**, **TypeScript**, and **Vite**.
 
 ## Live Demo 
-  [Click here for live demo](https://nodejs.org/) 
+  [Click here for live demo](https://calculator-react-app-amber.vercel.app/) 
 ## Features
 
 - Basic arithmetic operations: addition, subtraction, multiplication, division
